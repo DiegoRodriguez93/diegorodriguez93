@@ -1,4 +1,10 @@
-# Hey there! 👋 I'm Diego Rodriguez
+```typescript
+const diego = {
+  location: "Montevideo, Uruguay 🇺🇾",
+  passions: ["JavaScript", "React", "Go Language", "Trading Systems"],
+  currentFocus: ["Algorithmic Trading", "FinTech Solutions", "High-Performance Apps"],
+  expertise: ["Trading Bots", "Real-time Data", "Scalable Backends"],
+  techStack: ["JavaScript", "React", "Node.js", "Go", "Type# Hey there! 👋 I'm Diego Rodriguez
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Fullstack+Developer;FinTech+%26+Trading+Systems+Expert;Building+Algorithmic+Trading+Solutions;Node.js+%26+React+Specialist" alt="Typing SVG" />
@@ -6,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm an **enterprising Senior Fullstack Developer** from **Montevideo, Uruguay** 🇺🇾, specializing in **FinTech solutions** and **algorithmic trading systems**. With 8+ years of experience, I build high-performance trading applications, automated trading bots, and robust financial platforms using **Node.js** and **React**.
+I'm an **enterprising Senior Fullstack Developer** from **Montevideo, Uruguay** 🇺🇾, passionate about **JavaScript** and **React** development. I specialize in **FinTech solutions** and **algorithmic trading systems**. With 8+ years of experience, I build high-performance trading applications, automated trading bots, and robust financial platforms. I'm a **Go enthusiast** who loves challenges and never gives up easily!
 
 ```typescript
 const diego = {
@@ -24,6 +30,7 @@ const diego = {
 ### 🔧 **Core Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -33,8 +40,15 @@ const diego = {
 ![APIs](https://img.shields.io/badge/Financial_APIs-4CAF50?style=for-the-badge&logo=api&logoColor=white)
 ![Real-time](https://img.shields.io/badge/Real--time_Data-FF9800?style=for-the-badge&logo=databricks&logoColor=white)
 
+### 🌐 **Web3 & Blockchain**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FFD700?style=for-the-badge&logo=blockchain&logoColor=black)
+
 ### 🏗️ **Backend & Database**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,11 +69,20 @@ const diego = {
 ### 🤖 **Trading Bot Systems**
 - **High-frequency trading algorithms** with microsecond latency
 - **Multi-exchange arbitrage bots** for crypto and traditional markets
+- **AI-powered trading strategies** using Python machine learning libraries
 - **Risk management systems** with real-time portfolio monitoring
 - **Backtesting frameworks** for strategy validation
 
-### 📊 **FinTech Applications**
-- **Real-time trading dashboards** with live market data
+### 🌐 **Web3 & DeFi Applications**
+- **Smart contract development** and deployment on Ethereum
+- **DeFi protocol integrations** (staking, yield farming, liquidity pools)
+- **Web3 wallet connectivity** (MetaMask, WalletConnect, etc.)
+- **Decentralized gaming platforms** with blockchain rewards
+- **NFT marketplaces** and minting applications
+
+### 📊 **FinTech & Data Science**
+- **Real-time trading dashboards** with live market data visualization
+- **Machine learning models** for price prediction and market analysis
 - **Portfolio management platforms** with advanced analytics
 - **Payment processing systems** for financial institutions
 - **Automated compliance and reporting tools**
@@ -69,18 +92,18 @@ const diego = {
 const currentProjects = {
   cryptoCasino: {
     description: "Web3 crypto casino with DeFi integration",
-    stack: ["React", "Node.js", "Solidity", "Web3.js"],
-    features: ["Smart contracts", "Real-time gaming", "Wallet integration"]
+    stack: ["React", "Node.js", "Solidity", "Web3.js", "Smart Contracts"],
+    features: ["DeFi protocols", "Real-time gaming", "Wallet integration"]
   },
   tradingBot: {
     description: "AI-powered algorithmic trading system",
-    stack: ["Node.js", "Python", "TensorFlow", "WebSocket"],
+    stack: ["Python", "Flask", "Node.js", "TensorFlow", "WebSocket"],
     features: ["ML predictions", "Risk management", "Multi-asset support"]
   },
-  finTechSaaS: {
-    description: "Enterprise financial management platform",
-    stack: ["React", "Node.js", "PostgreSQL", "AWS"],
-    features: ["Real-time analytics", "Automated reporting", "API integrations"]
+  defiPlatform: {
+    description: "Decentralized finance yield farming platform",
+    stack: ["React", "Solidity", "Web3.js", "Ethereum", "IPFS"],
+    features: ["Smart contracts", "Liquidity pools", "Staking rewards"]
   }
 };
 ```
@@ -123,15 +146,23 @@ const currentProjects = {
 ### 💰 **Trading & Finance**
 - **8+ years** developing financial applications
 - **Real-time market data** processing and analysis
-- **Algorithmic trading strategies** implementation
+- **Algorithmic trading strategies** with Python and machine learning
 - **Risk management** and portfolio optimization
 - **Cryptocurrency** and traditional markets experience
 
-### ⚡ **Performance Optimization**
+### 🌐 **Web3 & Blockchain**
+- **Smart contract development** in Solidity
+- **DeFi protocol integrations** and yield farming platforms
+- **Web3 wallet integrations** and dApp development
+- **Ethereum blockchain** development and deployment
+- **NFT marketplace** and tokenization solutions
+
+### ⚡ **Performance & Scalability**
 - **High-frequency trading** systems with sub-millisecond latency
 - **Scalable microservices** architecture for financial data
 - **Database optimization** for time-series financial data
 - **Caching strategies** for real-time applications
+- **Python Flask APIs** for machine learning model deployment
 
 ### 🔐 **Security & Compliance**
 - **Financial-grade security** implementations
