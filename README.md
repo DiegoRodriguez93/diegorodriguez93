@@ -82,7 +82,7 @@ const diego = {
 - **Payment processing systems** for financial institutions
 - **Automated compliance and reporting tools**
 
-### 🔥 **Current Projects**
+### 🔥 **Latest Projects**
 ```javascript
 const currentProjects = {
   cryptoCasino: {
