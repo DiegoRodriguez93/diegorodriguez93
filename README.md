@@ -11,10 +11,10 @@ I'm an **enterprising Senior Fullstack Developer** from **Montevideo, Uruguay** 
 ```typescript
 const diego = {
   location: "Montevideo, Uruguay 🇺🇾",
-  passions: ["JavaScript", "React", "Go Language", "Trading Systems"],
+  passions: ["JavaScript", "TypeScript", "React", "Nodejs", "Python", "Trading Systems"],
   currentFocus: ["Algorithmic Trading", "FinTech Solutions", "High-Performance Apps"],
   expertise: ["Trading Bots", "Real-time Data Processing", "Scalable Backends"],
-  techStack: ["JavaScript", "React", "Node.js", "Go", "TypeScript"],
+  techStack: ["JavaScript", "React", "Node.js", "Python", "TypeScript"],
   passion: "Creating intelligent trading systems that make money while you sleep 💰",
   funFact: "I've built trading bots that execute thousands of trades per second!"
 };
