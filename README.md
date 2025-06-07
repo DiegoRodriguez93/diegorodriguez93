@@ -1,10 +1,4 @@
-```typescript
-const diego = {
-  location: "Montevideo, Uruguay 🇺🇾",
-  passions: ["JavaScript", "React", "Go Language", "Trading Systems"],
-  currentFocus: ["Algorithmic Trading", "FinTech Solutions", "High-Performance Apps"],
-  expertise: ["Trading Bots", "Real-time Data", "Scalable Backends"],
-  techStack: ["JavaScript", "React", "Node.js", "Go", "Type# Hey there! 👋 I'm Diego Rodriguez
+# Hey there! 👋 I'm Diego Rodriguez
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Senior+Fullstack+Developer;FinTech+%26+Trading+Systems+Expert;Building+Algorithmic+Trading+Solutions;Node.js+%26+React+Specialist" alt="Typing SVG" />
@@ -17,9 +11,10 @@ I'm an **enterprising Senior Fullstack Developer** from **Montevideo, Uruguay** 
 ```typescript
 const diego = {
   location: "Montevideo, Uruguay 🇺🇾",
-  currentFocus: ["Trading Systems", "Algorithmic Trading", "FinTech Solutions"],
-  expertise: ["Trading Bots", "Real-time Data Processing", "Financial APIs"],
-  techStack: ["Node.js", "React", "TypeScript", "WebSockets", "Crypto APIs"],
+  passions: ["JavaScript", "React", "Go Language", "Trading Systems"],
+  currentFocus: ["Algorithmic Trading", "FinTech Solutions", "High-Performance Apps"],
+  expertise: ["Trading Bots", "Real-time Data Processing", "Scalable Backends"],
+  techStack: ["JavaScript", "React", "Node.js", "Go", "TypeScript"],
   passion: "Creating intelligent trading systems that make money while you sleep 💰",
   funFact: "I've built trading bots that execute thousands of trades per second!"
 };
